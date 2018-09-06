@@ -1,0 +1,8 @@
+{
+  "name": "moviewebwithgraphql",
+  "version": "1.0.0",
+  "description": "movie web app project with graphql react nodejs",
+  "main": "index.js",
+  "author": "omnmala",
+  "license": "MIT"
+}
