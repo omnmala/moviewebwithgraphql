@@ -4,5 +4,8 @@
   "description": "movie web app project with graphql react nodejs",
   "main": "index.js",
   "author": "omnmala",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "graphql-yoga": "^1.16.2"
+  }
 }
